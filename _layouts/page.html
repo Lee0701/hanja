@@ -2,6 +2,16 @@
 layout: base
 ---
 
-<main class="site-main">
-    {{ content }}
-</main>
+<container class="site-main">
+    <header class="article-header">
+        <h1>{{ page.title }}</h1>
+    </header>
+    <hr>
+    <main class="article-main">
+        {{ content }}
+    </main>
+    <hr>
+    <footer class="article-footer">
+        {{ page.footer}}
+    </footer>
+</container>

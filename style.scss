@@ -1,16 +1,44 @@
 ---
 ---
 
-.hanja-reading > .reading {
-    font-size: 65%;
+body {
+    margin: 0px;
+    background-color: antiquewhite;
+    font-size: 110%;
 }
 
 * {
     font-family: 'Noto Sans CJK KR', 'Noto Sans KR', '나눔고딕', 'NanumGothic', sans-serif;
+    box-sizing: content-box;
 }
 
 p {
     line-height: 150%;
+    text-indent: 1em;
 }
 
+hr {
+    width: 100%;
+    border-width: 1px;
+    border-color: #eee;
+}
 
+.site-main {
+    margin: 40px auto;
+    max-width: 1000px;
+    background-color: white;
+    padding: 20px;
+
+    display: flex;
+    flex-direction: column;
+
+    box-shadow: 10px 10px 0px #444;
+}
+
+.article-footer {
+    text-align: center;
+}
+
+.hanja-reading > .reading {
+    font-size: 65%;
+}

@@ -1,18 +1,19 @@
 ---
 layout: page
 title: 質答
+footer: 죄송합니다 디자인하기 귀찮았을 뿐이에요 - 2020. 12. 31.
 ---
 
 ## {% include hanja_reading.html hanja="簡單" reading="간단" %}한 {% include hanja_reading.html hanja="質答" reading="질답" %}
-- 왜 우리 글인 한글을 놔두고 남의 글인 {% include hanja_reading.html hanja="漢字" reading="한자" %}를 쓰시나요? - 한글과 {% include hanja_reading.html hanja="漢字" reading="한자" %}를 같이 쓰는 것입니다.
-- {% include hanja_reading.html hanja="漢字語" reading="한자어" %}라 하더라도 한글로만 쓰면 되지 않습니까? - 같은 소리로 읽는 {% include hanja_reading.html hanja="漢字語" reading="한자어" %}가 많습니다.
-- {% include hanja_reading.html hanja="漢字語" reading="한자어" %}를 모두 순 우리말로 바꿉시다! - 현대의 말과는 동떨어지게 됩니다.
-- {% include hanja_reading.html hanja="漢字" reading="한자" %}를 쓰면 옛날처럼 {% include hanja_reading.html hanja="文盲率" reading="문맹률" %}이 높아지잖아요! - {% include hanja_reading.html hanja="文盲率" reading="문맹률" %}은 말과 글을 잘 가르쳐주지 않을 때 낮아집니다.
-- 우리말은 한글로만 써도 {% include hanja_reading.html hanja="問題" reading="문제" %}가 없기 때문에 어려운 {% include hanja_reading.html hanja="漢字" reading="한자" %}는 {% include hanja_reading.html hanja="淘汰" reading="도태" %}된 게 아닙니까? - {% include hanja_reading.html hanja="敎育" reading="교육" %}의 {% include hanja_reading.html hanja="不在" reading="부재" %}로 어렵게 보이는 것입니다.
-- 글 쓸 때는 그렇다 쳐도, 얘기할 때까지 {% include hanja_reading.html hanja="漢字" reading="한자" %}를 쓸 수는 없잖아요. - 알고 안 쓰는 것과 모르고 안 쓰는 것에는 {% include hanja_reading.html hanja="差異" reading="차이" %}가 있습니다.
-- 뭐가 좋고 뭐가 나쁘든 그렇다 쳐도 아무도 안 쓰는 {% include hanja_reading.html hanja="漢字" reading="한자" %}를 쓰는 이유는 뭐죠? - 나부터 써보려 합니다.
-- 컴퓨터나 핸드폰으로 쓰기 힘들지 않나요? - 큰 {% include hanja_reading.html hanja="問題" reading="문제" %}는 없으니 걱정은 마시길 바랍니다.
-- 다 {% include hanja_reading.html hanja="必要" reading="필요" %} 없고 그냥 멋져 보이거나 잘난 체 하고 싶어서 그러는 거죠? - 그렇게 보이나요?
+- 왜 우리 글인 한글을 놔두고 남의 글인 {% include hanja_reading.html hanja="漢字" reading="한자" %}를 쓰시나요? -- 한글과 {% include hanja_reading.html hanja="漢字" reading="한자" %}를 같이 쓰는 것입니다.
+- {% include hanja_reading.html hanja="漢字語" reading="한자어" %}라 하더라도 한글로만 쓰면 되지 않습니까? -- 같은 소리로 읽는 {% include hanja_reading.html hanja="漢字語" reading="한자어" %}가 많습니다.
+- {% include hanja_reading.html hanja="漢字語" reading="한자어" %}를 모두 순 우리말로 바꿉시다! -- 현대의 말과는 동떨어지게 됩니다.
+- {% include hanja_reading.html hanja="漢字" reading="한자" %}를 쓰면 옛날처럼 {% include hanja_reading.html hanja="文盲率" reading="문맹률" %}이 높아지잖아요! -- {% include hanja_reading.html hanja="文盲率" reading="문맹률" %}은 말과 글을 잘 가르쳐주지 않을 때 낮아집니다.
+- 우리말은 한글로만 써도 {% include hanja_reading.html hanja="問題" reading="문제" %}가 없기 때문에 어려운 {% include hanja_reading.html hanja="漢字" reading="한자" %}는 {% include hanja_reading.html hanja="淘汰" reading="도태" %}된 게 아닙니까? -- {% include hanja_reading.html hanja="敎育" reading="교육" %}의 {% include hanja_reading.html hanja="不在" reading="부재" %}로 어렵게 보이는 것입니다.
+- 글 쓸 때는 그렇다 쳐도, 얘기할 때까지 {% include hanja_reading.html hanja="漢字" reading="한자" %}를 쓸 수는 없잖아요. -- 알고 안 쓰는 것과 모르고 안 쓰는 것에는 {% include hanja_reading.html hanja="差異" reading="차이" %}가 있습니다.
+- 뭐가 좋고 뭐가 나쁘든 그렇다 쳐도 아무도 안 쓰는 {% include hanja_reading.html hanja="漢字" reading="한자" %}를 쓰는 이유는 뭐죠? -- 나부터 써보려 합니다.
+- 컴퓨터나 핸드폰으로 쓰기 힘들지 않나요? -- 큰 {% include hanja_reading.html hanja="問題" reading="문제" %}는 없으니 걱정은 마시길 바랍니다.
+- 다 {% include hanja_reading.html hanja="必要" reading="필요" %} 없고 그냥 멋져 보이거나 잘난 체 하고 싶어서 그러는 거죠? -- 그렇게 보이나요?
 
 ## {% include hanja_reading.html hanja="詳細" reading="상세" %}한 {% include hanja_reading.html hanja="答辯" reading="답변" %}
 ### 왜 우리 글인 한글을 놔두고 남의 글인 {% include hanja_reading.html hanja="漢字" reading="한자" %}를 쓰시나요?
